@@ -1,0 +1,20 @@
+{
+  "name": "mestbackendblog",
+  "version": "1.0.0",
+  "description": "This is an example server for moses",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "express",
+    "backend",
+    "json"
+  ],
+  "author": "Moses Ubah",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0"
+  }
+}
